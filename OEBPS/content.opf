@@ -188,7 +188,7 @@
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
     <item id="id" href="NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
   </manifest>
-  <spine toc="ncx" page-progression-direction="ltr">
+  <spine toc="ncx" page-progression-direction="rtl">
     <itemref idref="id14"/>
     <itemref idref="a01.htm"/>
     <itemref idref="x131.htm"/>
